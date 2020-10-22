@@ -1,2 +1,0 @@
-== Camel example with netty
-Source code for www.masteringintegration.com/testing-frameworks/camel/using-camel-netty-components-to-manage-socket-routes
