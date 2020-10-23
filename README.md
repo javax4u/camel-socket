@@ -16,6 +16,10 @@ Directory Structure
 	change path according to your computer
 	E:\camel-socket\release>InstallAsWindowsService.bat
 	
+Service Screenshot
+
+![Service Screenshot](image/image_262.png)	
+	
 ## Common Errors
 
 ### java.net.ConnectException: Connection refused: connect
